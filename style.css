@@ -1,0 +1,65 @@
+ .o {
+     border: 1px;
+     padding: 2em;
+     line-height: 2em;
+     background-color: white;
+     
+ }
+ 
+ .one{
+     padding: 2px ;
+    background-color: blue;   
+}
+.p{
+    text-align: center;
+}
+.six{
+    display: flex;
+    justify-content: center;
+}
+
+.three {
+   padding: 10px;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+li{
+    display: inline;
+}
+
+ol{
+    padding: 10px;
+    word-spacing: 2em;
+    list-style-type: none;
+    text-align: center 
+      
+}
+
+ul{
+    text-align: center;
+    
+}
+.five {
+    text-align: center;
+}
+.main,.a,.b,.c {
+   
+    padding: 1em;
+    background-color: blue;
+}
+.serif{
+    font-family: serif;
+    color: blue;   
+}
+.footer{
+    background-color: darkslateblue;
+}
+.text-uppercase{
+    color: blue;
+}
+
+.bgsilverlight{
+    background-color: lemonchiffon;
+}
